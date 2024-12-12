@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keremify
 - 👀 I’m interested in increasing my skills on coding.
-- 🌱 I’m currently learning Phyton
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Contact to my instagram @keremify
 - 😄 Pronouns: Male
 - ⚡ Fun fact: I am a game nerd
