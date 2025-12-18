@@ -11,4 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keremify&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1075742330566488134)](https://discord.com/users/1075742330566488134)
