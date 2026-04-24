@@ -7,3 +7,5 @@ computer engineering 2nd grade student. mainly working with Golang. building web
 - front-end fundamentals
 - next.js (responsive website UI's)
 - python (for API requests)
+
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=keremify&color=blueviolet&style=flat" alt="keremify" /> </p>
